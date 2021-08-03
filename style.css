@@ -104,7 +104,8 @@ padding-left: 430px;
 }
 .image_block {
     display: block;
-margin-left: 46%;
+margin-left: auto;
+    margin-right: auto;
     margin-top: 60px;
  
 
