@@ -90,10 +90,10 @@ padding-left: 430px;
 
 .title_box h2 {
         text-align: center;
-        font-size: 22px;
+        font-size: 30px;
         margin-top: 108px;
-        font-weight: bold;
-        color:padding-left: 10px;384a;
+        font-weight: 700;
+        color:#263244;
 
 
         }
@@ -104,7 +104,7 @@ padding-left: 430px;
             margin-top: 30px;
         }
 
-        .image_block {
+        .round_boy {
             display: block;
             margin-left: auto;
             margin-right: auto;
@@ -114,10 +114,12 @@ padding-left: 430px;
         }
 
         .title_box p {
+            display: block;
             max-width: 730px;
             padding-top: 0px;
             margin-top: 40px;
-            margin-left: 900px;
+           margin-left: auto;
+            margin-right: auto;
             color: #717883;
           font-size: 17px;
            
@@ -148,6 +150,49 @@ padding-left: 430px;
 .title_box2 {
     
     display: block;
+    height: 500px;
     text-align: center;
     background: url(../img/background2.jpg);
+
+}
+.title_box2 h2 {
+    display: block;
+   margin-top:  100px;
+    padding-top: 60px;
+   
+        font-size: 30px;
+     color:#263244;
+    font-weight: 700;
+    
+    
+}
+
+
+
+.title_box2 li
+{
+    display:inline-table;
+    text-align: center;
+    padding-top: 40px;
+  
+    max-width: 200px;
+    max-height: 50px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+   
+
+
+}
+ .line_image2
+{
+           display: block;
+     ;
+     margin-left: auto;
+     margin-right: auto; 
+     padding-top: 20px;
+        }
+.title_box2 h3 {
+    display: block;
+    padding-bottom: 20px;
 }
