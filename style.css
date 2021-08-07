@@ -66,29 +66,17 @@ padding-left: 430px;
 
 .main input {
      display: inline-block;
-    table-layout: auto;
-    height: 50px;
+   text-align: center;
+    height: 30px;
      width:100px;
-    padding: 5px 5px 5px 5px;
+    
     border: 2px solid #6d7682;
     border-radius: 7px;
     background: none;
-    margin-top: auto;
-    margin-bottom: auto;
-	
-           
-    
-    
-   
-   
-    
-   
-  
-    
- max-width: 730px;
-    padding-top: 22px ;
-    margin-top: 42px;
-    margin-right: auto 
+    padding: 5px 5px 5px 5px;
+    margin-left: 30px;
+    margin-top: 50px;
+	color: #2c384a;
 }
 
 
@@ -264,11 +252,89 @@ padding-left: 430px;
 }
 .comp_image {
     display: block;
-    width: 1800px;
+    width: 1200px;
     height: auto;
-   text-align: center;
+  margin-left: auto;
+    margin-right: auto;
     margin-top: 30px;
 }
-.mid_box v{
-    display: inline-block;
+
+.block_button {
+    display: block;
+    float:left;
+    margin-left:320px;
+    margin-top: 20px;
+    margin-right: 70px;
+   
+   }
+
+   .block_button h2 {
+       display: block;
+
+       font-size: 20px;
+       font-weight: 700;
+       color: #263244;
+   }
+
+   .left_block {
+       display: block;
+
+       color: #2c384a;
+       margin-top: 20px;
+
+   }
+
+   .left_block h2 {
+       display: block;
+       font-size: 20px;
+       font-weight: 700;
+       color: #263244;
+   }
+
+   .left_block h4 {
+       display: inline-block;
+       margin-top: 10px;
+       max-width: 1000px;
+       color: #263244;
+       font-size: 17px;
+   }
+   }
+
+   .block_button h4 {
+       display: block;
+       margin-bottom: 20px;
+       color: #263244;
+       font-size: 17px;
+       font-weight: 600;
+       color: #263244;
+
+   }
+
+   .block_button input {
+       display: block;
+       width: 150px;
+       height: 35px;
+       margin-top: 20px;
+       font-size: 15px;
+       font-weight: 700;
+       color: #fff;
+       background-color: #21c5b7;
+       border-radius: 5px;
+   }
+
+   .title_box4 h2 {
+       display: block;
+       text-align: center;
+       text-align: center;
+       font-size: 30px;
+       margin-top: 108px;
+       font-weight: 700;
+       color: #263244;
+       margin-top: 200px;
+
+
+   }
+.title_box4 list1 {
+   
+    text-align: center;
 }
