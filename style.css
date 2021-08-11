@@ -169,24 +169,20 @@ padding-left: 430px;
 
 .title_box2 li
 {
-    display:inline-table;
+    display:inline-block;
     text-align: center;
     color: #263244;
-    padding-top: 140px;
+    padding-top: 100px;
   
     max-width: 200px;
     max-height: 50px;
-    
-    
-    margin-left: 40px;
-   
-
-
+   margin-left: 30px;
+ 
 }
 .line_image2 {
 
-           display: block;
-     ;
+     display: block;
+    
      margin-left: auto;
      margin-right: auto; 
      padding-top: 40px;
@@ -203,6 +199,7 @@ padding-left: 430px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+  
 
 }
 .znak {
@@ -391,30 +388,50 @@ padding-left: 430px;
        font-weight: bold;
        color: #323e4f;
 }
+.title_box5 li
+{
+    display:inline-block;
+    text-align: center;
+    color: #263244;
+    
+  
+    max-width: 200px;
+    
+   margin-left: 30px;
+ 
+}
     
 .smile {
-    display: inline-block;
-     margin-left: 70px;
-    margin-right: 50px;
-   margin-top: 90px;
+    display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 60px;
+    padding-bottom: 40px;
+
 }
 .skobki2 {
-     display: inline-block;
-    margin-left: 70px;
-    margin-right: 50px;
-    margin-top: 90px;
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+  margin-top: 60px;
+    padding-bottom: 40px;
+
 }
 .checkbox {
-    display:inline-block;
-    margin-left: 70px;
-    margin-right: 50px;
-    margin-top: 90px;
+     display: block;
+     margin-left:auto;
+    margin-right:auto;
+  margin-top: 60px;
+    padding-bottom: 40px;
+
 }
 .cup {
-     display: inline-block;
-     margin-left: 70px;
-    margin-right: 50px;
-    margin-top: 90px;
+       display: block;
+     margin-left:auto;
+    margin-right:auto;
+   margin-top: 60px;
+    padding-bottom: 40px;
+
 }
 line_image3 {
   
@@ -425,26 +442,78 @@ line_image3 {
      padding-top: 40px;
         }
 .clients {
-     display: inline-block;
-    margin-left: 70px;
-     margin-right: auto;
-    margin-top: 90px;
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+  
 }
 .hours {
-     display: inline-block;
-   margin-left: 70px;
-     margin-right: auto;
-    margin-top: 90px;
+     display: block;
+     margin-left:auto;
+    margin-right:auto;
+ 
 }
 .proj {
-     display: inline-block;
-  margin-left: 70px;
-   margin-right: auto;
-    margin-top: 90px;
+   display: block;
+     margin-left:auto;
+    margin-right:auto;
+   
 }
 .awa {
-     display: inline-block;
-    margin-left: 70px;
-   margin-right: auto;
-    margin-top: 90px;
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+  
+}
+ 
+.title_box6 {
+    display: block;
+    text-align: center;
+        height: 400px;
+   
+}
+
+.title_box6 h2 {
+     font-size: 30px;
+        margin-top: 60px;
+        font-weight: 700;
+        color:#263244;
+    
+}
+.round_man {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+.title_box6 p {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    color: #263244;
+       font-size: 17px;
+    
+}
+title_box6 li{
+    display: inline-block;
+}
+.title_box6 orange1 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.title_box6 orange2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.title_box6 orange3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
 }
