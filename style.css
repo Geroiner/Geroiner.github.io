@@ -433,7 +433,7 @@ padding-left: 430px;
     padding-bottom: 40px;
 
 }
-line_image3 {
+.line_image3 {
   
            display: block;
      ;
@@ -496,7 +496,7 @@ line_image3 {
        font-size: 17px;
     
 }
-title_box6 li{
+.title_box6 li{
     display: inline-block;
 }
 .title_box6 orange1 {
@@ -517,3 +517,89 @@ title_box6 li{
     margin-right: auto;
    
 }
+
+.title_box7 {
+ height: 700px;
+    background-image: url(../img/Blue_bg.png);
+    background-size: 100% 100%;
+    
+}
+.title_box7  h2{
+    text-align: center;
+     padding-top: 100px;
+    font-size: 28px;
+       font-weight: bold;
+       color: #fff;
+    
+    
+    
+}
+
+.line_image4 {
+  
+           display: block;
+     ;
+     margin-left: auto;
+     margin-right: auto; 
+     padding-top: 40px;
+        }
+.title_box7 h4 {
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+    
+}
+.title_box7 li
+{
+    display:inline-block;
+   
+
+    
+    margin-top: 40px;
+     margin-left:40px;
+}
+
+.geo {
+    display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+    
+    
+
+
+}
+.spb {
+      display: block;
+      margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+
+}
+.konv {
+     display: block;
+      margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+}
+.email {
+       display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+
+}
+.truba {
+      display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+  
+}
+.telef {
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+}
+
