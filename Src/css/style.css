@@ -1,0 +1,622 @@
+body {
+    font-family: Arial, sans-serif;
+}
+    
+    
+    nav {
+    width: 100%;
+    height: 60px;
+    background-color: #344050;
+    
+}
+.logo{ 
+    color: #fff;
+    font-size: 30px;
+line-height: 60px;
+padding-left: 388px;
+float: left;
+
+}
+
+.menu {
+    float: left;
+padding-left: 430px;
+
+
+}
+
+.menu li {
+    float: left;
+    line-height: 60PX;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+
+
+}
+
+.main {
+    background: url(../img/boy.png) 90% 100% no-repeat/ auto 85%, url(../img/bg.jpg) center/cover no-repeat;
+    height: calc(100% - 60px);
+
+
+}
+
+.title_container {
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+
+
+}
+
+.title_container h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title_container h4 {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+
+
+}
+
+.main input {
+     display: inline-block;
+   text-align: center;
+    height: 30px;
+     width:100px;
+    
+    border: 2px solid #6d7682;
+    border-radius: 7px;
+    background: none;
+    padding: 5px 5px 5px 5px;
+    margin-left: 30px;
+    margin-top: 50px;
+	color: #2c384a;
+}
+
+
+.title_box {
+    height: 500px;
+}
+
+    
+
+.title_box h2 {
+        text-align: center;
+        font-size: 30px;
+        margin-top: 108px;
+        font-weight: 700;
+        color:#263244;
+
+
+        }
+
+        .line_image {
+            text-align: center;
+            height: 4px;
+            margin-top: 30px;
+        }
+
+        .round_boy {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 60px;
+
+
+        }
+
+        .title_box p {
+            display: block;
+            max-width: 730px;
+            padding-top: 0px;
+            margin-top: 40px;
+           margin-left: auto;
+            margin-right: auto;
+            color: #263244;
+          font-size: 17px;
+           
+
+
+
+        }
+
+        .title_box input {
+            display: block;
+            text-align: center;
+           width:150px;
+	height:30px;
+	border:3px solid gray;
+	border-radius:5px;
+	margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            background-color: #fcfdfd;
+           color: #717883;
+            font-weight: bold;
+            padding-left: 20px;
+            background-image: url(../img/button_icon.png) ;
+            background-repeat: no-repeat;
+            background-position: 3% 50%;
+
+        }
+.title_box2 {
+    
+    display: block;
+    height: 500px;
+    text-align: center;
+    background: url(../img/background2.jpg);
+
+}
+.title_box2 h2 {
+    display: block;
+   margin-top:  40px;
+    padding-top: 60px;
+   
+        font-size: 30px;
+     color:#263244;
+    font-weight: 700;
+    
+    
+}
+
+
+
+.title_box2 li
+{
+    display:inline-block;
+    text-align: center;
+    color: #263244;
+    padding-top: 100px;
+  
+    max-width: 200px;
+    max-height: 50px;
+   margin-left: 30px;
+ 
+}
+.line_image2 {
+
+     display: block;
+    
+     margin-left: auto;
+     margin-right: auto; 
+     padding-top: 40px;
+        }
+.title_box2 h3 {
+    display: block;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    color:#cf7600
+    
+}
+.nout {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  
+
+}
+.znak {
+    display: block;
+   margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.raketa {
+    display: block;
+   margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.gromofon {
+    display: block;
+   margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.line_image3 {
+    display: block;
+     margin-left: auto;
+     margin-right: auto; 
+     padding-top: 20px;
+    
+}
+
+.title_box3 h2 {
+        text-align: center;
+        font-size: 30px;
+        margin-top: 108px;
+        font-weight: 700;
+        color:#263244;
+
+
+        }
+.title_box3 h4 {
+    text-align: center;
+    display: block;
+    max-width: 800px;
+            margin-top: 40px;
+           margin-left: auto;
+            margin-right: auto;
+            color: #263244;
+          font-size: 17px;
+}
+.comp_image {
+    display: block;
+    width: 1200px;
+    height: auto;
+  margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.block_button {
+    display: block;
+    float:left;
+    margin-left:320px;
+    margin-top: 20px;
+    margin-right: 70px;
+   
+   }
+
+   .block_button h2 {
+       display: block;
+
+       font-size: 20px;
+       font-weight: 700;
+       color: #263244;
+   }
+
+   .left_block {
+       display: block;
+
+       color: #2c384a;
+       margin-top: 20px;
+
+   }
+
+   .left_block h2 {
+       display: block;
+       font-size: 20px;
+       font-weight: 700;
+       color: #263244;
+   }
+
+   .left_block h4 {
+       display: inline-block;
+       margin-top: 10px;
+       max-width: 1000px;
+       color: #263244;
+       font-size: 17px;
+   }
+   }
+
+   .block_button h4 {
+       display: block;
+       margin-bottom: 20px;
+       color: #263244;
+       font-size: 17px;
+       font-weight: 600;
+       color: #263244;
+
+   }
+
+   .block_button input {
+       display: block;
+       width: 150px;
+       height: 35px;
+       margin-top: 20px;
+       font-size: 15px;
+       font-weight: 700;
+       color: #fff;
+       background-color: #21c5b7;
+       border-radius: 5px;
+   }
+
+   .title_box4 h2 {
+       display: block;
+       text-align: center;
+       text-align: center;
+       font-size: 30px;
+       margin-top: 108px;
+       font-weight: 700;
+       color: #263244;
+       margin-top: 200px;
+
+
+   }
+.list1 {
+   display: block;
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    width: 800px;
+    height: 40px;
+    background-color: #eeeeee;
+}
+.type-menu h2 {
+    margin-left: 520px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 25px;
+       font-weight: 700;
+       color: #263244;
+    
+}
+.type-menu h3 {
+    
+    font-size: 20px;
+    display: block;
+   
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+       font-weight: 700;
+       color: #263244;
+    background: url(../img/0_1.png)  no-repeat;
+    background-position: 100% 0%;
+}
+.poditog {
+    display: block;
+    width: 800px;
+    height: 3px;;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.title_box5 {
+    margin-top: 150px;
+    background: url(../img/laptop_background.jpg);
+        width: 100%;
+            height: 500px;
+    text-align: center;
+
+}
+.title_box5 h2 {
+    text-align: center;
+     padding-top: 100px;
+    font-size: 25px;
+       font-weight: bold;
+       color: #323e4f;
+}
+.title_box5 li
+{
+    display:inline-block;
+    text-align: center;
+    color: #263244;
+    
+  
+    max-width: 200px;
+    
+   margin-left: 30px;
+ 
+}
+    
+.smile {
+    display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 60px;
+    padding-bottom: 40px;
+
+}
+.skobki2 {
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+  margin-top: 60px;
+    padding-bottom: 40px;
+
+}
+.checkbox {
+     display: block;
+     margin-left:auto;
+    margin-right:auto;
+  margin-top: 60px;
+    padding-bottom: 40px;
+
+}
+.cup {
+       display: block;
+     margin-left:auto;
+    margin-right:auto;
+   margin-top: 60px;
+    padding-bottom: 40px;
+
+}
+.line_image3 {
+  
+           display: block;
+     ;
+     margin-left: auto;
+     margin-right: auto; 
+     padding-top: 40px;
+        }
+.clients {
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+  
+}
+.hours {
+     display: block;
+     margin-left:auto;
+    margin-right:auto;
+ 
+}
+.proj {
+   display: block;
+     margin-left:auto;
+    margin-right:auto;
+   
+}
+.awa {
+      display: block;
+     margin-left:auto;
+    margin-right:auto;
+  
+}
+ 
+.title_box6 {
+    display: block;
+    text-align: center;
+        height: 400px;
+   
+}
+
+.title_box6 h2 {
+     font-size: 30px;
+        margin-top: 60px;
+        font-weight: 700;
+        color:#263244;
+    
+}
+.round_man {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+.title_box6 p {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    color: #263244;
+       font-size: 17px;
+}
+.dot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 300px;
+    height: 100px;
+}
+.title_box6 li {
+    display:block;
+     float:left;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+.title_box7 {
+ height: 700px;
+    background-image: url(../img/Blue_bg.png);
+    background-size: 100% 100%;
+    
+}
+.title_box7  h2{
+    text-align: center;
+     padding-top: 100px;
+    font-size: 28px;
+       font-weight: bold;
+       color: #fff;
+    
+    
+    
+}
+
+.line_image4 {
+  
+           display: block;
+     ;
+     margin-left: auto;
+     margin-right: auto; 
+     padding-top: 40px;
+        }
+.title_box7 h4 {
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+    
+}
+.icons {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 600px;
+}
+.title_box7 li
+{
+    display:inline-block;
+   
+
+    
+    margin-top: 40px;
+     margin-left:40px;
+}
+
+.geo {
+    display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+    
+    
+
+
+}
+.spb {
+      display: block;
+      margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+
+}
+.konv {
+     display: block;
+      margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+}
+.email {
+       display: block;
+     margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+
+}
+.truba {
+      display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+  
+}
+.telef {
+      display: block;
+     padding-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+}
+.title_box7 h3 {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+       font-weight: 550;
+       color: #fff; 
+}
+
+.title_box7 Name { 
+display: block;
+    float: left;
+}
+.title_box7 Email { 
+ display: block;
+    float: left;
+}
